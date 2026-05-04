@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Java
+*.class
+*.jar
+target/
+
+# C / C++
+*.o
+*.out
+*.exe
+
+# IDEs
+.vscode/settings.json
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outros
+*.log
+*.pdf
