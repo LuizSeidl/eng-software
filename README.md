@@ -31,5 +31,4 @@ Cada semestre contém pastas por disciplina, organizadas em:
 ## 📂 Outras Pastas
 
 - [Projetos](./projetos/)
-- [Recursos](./recursos/)
 - [Conteúdo Complementar](./conteudo-complementar/)
