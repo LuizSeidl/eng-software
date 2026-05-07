@@ -6,11 +6,41 @@
     <title>Título da Página</title>
   </head>
   <body>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue nisl a
-    magna tempus dignissim. Curabitur eget porta lacus, eu bibendum leo. Mauris
-    enim lorem, convallis eget sodales ullamcorper, semper eu purus. Aenean
-    vitae varius ex. Maecenas sagittis diam quis tincidunt blandit. Donec id
-    egestas nisl. Nullam sollicitudin arcu quis risus dignissim eleifend. Morbi
-    ipsum augue, aliquet eget ante ac, feugiat interdum nisl.
+    <header><h1>Cabeçalho da página.</h1></header>
+    <!--h1,h2,h3,h4,h5,h6 -> Títulos, sendo o h1 o mais importante e o h6 o menos importante.-->
+    <hr />
+    <!--aponta a inserção de uma linha horizontal, ou seja, uma linha que separa o conteúdo da página.-->
+    <nav><h2>Menu de navegação.</h2></nav>
+    <hr />
+    <main>
+      <h3>Conteúdo principal da página.</h3>
+      <p>Aponta a inserção de parágrafos de texto.</p>
+    </main>
+    <div>
+      <h4>Define uma divisão ou seção genérica no documento.</h4>
+      É um elemento de contêiner genérico, sem significado semântico específico. Ele é usado para agrupar elementos e aplicar estilos ou scripts a eles.
+      <section>
+        <h5>Define uma seção no documento.</h5>
+        É normalmente utilizado para agrupar seções. Por exemplo: uma section poderia conter vários articles.
+        <article>Inclui um bloco de conteúdo que deve ser usado quando se deseja inserir um artigo, como um post de um blog, por exemplo.</article>
+      </section>
+      <img src="imagem.jpg" alt="Descrição da imagem" />
+    </div>
+    <span>
+      Aponta a inserção de um texto em linha, ou seja, um texto que não inicia uma nova linha. Ele é usado para aplicar estilos ou scripts a uma parte específica do texto dentro de um parágrafo ou
+      outro elemento em linha. <br />
+      <b> Aplica o efeito de negrito em um texto, mas não o marca como importante.</b><br />
+      <strong>Aplica o efeito de negrito em um texto e o marca como importante.</strong><br />
+      <i>Aplica o efeito de itálico em um texto.</i><br />
+      <em> Aplica o efeito de itálico e dá ênfase a um texto. </em><br />
+      <!--O destaque que tais elementos merecem diz respeito à função semântica que as tags exercem.
+          É interessante notar que ambas produzem o mesmo efeito visual das tags e, respectivamente, em um texto, ou seja, marcam em negrito e/ou itálico. Entretanto, há uma diferença importante entre essas tags que vai além da visualização do texto no navegador pela maioria dos usuários. A função semântica é perceptível em dispositivos de leitura de tela, que transformam o texto em áudio, e normalmente são utilizados por pessoas com deficiência visual.-->
+      <a href="">Link</a>
+      <br />
+      <!--aponta a inserção de uma quebra de linha, ou seja, um salto para a próxima linha. Conteúdo principal da página.-->
+      <aside><h6>Barra lateral.</h6></aside>
+      <pre>Aponta a inserção de um texto pré-formatado.</pre>
+    </span>
+    <footer>Rodapé da página.</footer>
   </body>
 </html>
