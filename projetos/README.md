@@ -7,6 +7,6 @@ Projetos de maior porte desenvolvidos ao longo da graduação.
 Crie uma pasta por projeto com o seguinte padrão:
 projetos/
 └── nome-do-projeto/
- ├── README.md
- ├── src/
- └── docs/
+├── README.md
+├── src/
+└── docs/
