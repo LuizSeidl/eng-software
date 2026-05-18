@@ -15,8 +15,8 @@ Cada semestre contém pastas por disciplina, organizadas em:
 ### 1º Semestre
 
 - [Matemática e Lógica](./01-semestre/matematica-logica/)
-- [Fundamentos de Redes](./01-semestre/fundamentos-redes-computadores/)
-- [Processos de Desenvolvimento de Software](./01-semestre/processos-desen-software/)
+- [Fundamentos de Redes](./01-semestre/fund-redes-computadores/)
+- [Processos de Desenvolvimento de Software](./01-semestre/proc-desenv-software/)
 - [Intro. Segurança da Informação](./01-semestre/intro-seguranca-informacao/)
 - [Computação em Nuvem](./01-semestre/computacao-nuvem/)
 
@@ -25,7 +25,7 @@ Cada semestre contém pastas por disciplina, organizadas em:
 - [Intro. Programação](./02-semestre/intro-programacao-computadores/)
 - [Arquitetura de Computadores](./02-semestre/arquitetura-computadores/)
 - [Paradigmas e Python](./02-semestre/paradigmas-ling-prog-python/)
-- [Desenvolvimento WEB](./02-semestre/des-web-html-css-js-php/)
+- [Desenvolvimento WEB](./02-semestre/desenv-web-html-css-js-php/)
 - [Requisitos de Sistema](./02-semestre/requisitos-sistema/)
 
 ## 📂 Outras Pastas
